@@ -1,0 +1,1 @@
+# jsnet-kiosk-os-releases
