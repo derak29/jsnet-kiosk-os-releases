@@ -1,111 +1,114 @@
 # JSNET Kiosk OS
 
-**JSNET Kiosk OS** is a Linux-based digital signage and kiosk software platform designed for commercial displays, advertising screens, kiosks and remote-managed media players.
+**JSNET Kiosk OS** is a Linux-based digital signage operating environment and kiosk software designed for dedicated PCs, commercial displays, advertising screens and unattended digital signage installations.
 
-It is part of the **JSNET Digital Signage Platform** and is designed for reliable 24/7 content playback on dedicated kiosk and signage devices.
+JSNET Kiosk OS is part of the **JSNET Digital Signage Platform** and is designed for reliable 24/7 media playback and remote management.
 
-## Digital Signage & Kiosk Software for Linux
+## Linux Digital Signage & Kiosk Software
 
-JSNET Kiosk OS turns a compatible PC or Linux-based device into a remotely managed digital signage player.
+JSNET Kiosk OS transforms a compatible Linux PC into a dedicated digital signage and kiosk player.
 
-The system is designed for:
+It is designed for:
 
-- Digital signage screens
-- Advertising displays
+- Digital signage displays
+- Advertising screens
+- Information displays
+- Retail screens
 - Interactive kiosks
-- Retail displays
-- Information screens
 - Commercial monitors
-- Dedicated media player PCs
-- 24/7 unattended kiosk installations
+- Dedicated signage PCs
+- Exhibition displays
+- 24/7 unattended installations
 
 ## Features
 
-- Full-screen kiosk operation
-- Digital signage video playback
+- Linux-based kiosk environment
+- Automatic full-screen startup
+- Full-screen video and media playback
 - Remote content management
-- Centralized device control
-- Automatic media playback
+- Centralized device management
 - Remote configuration
-- Commercial display support
-- Dedicated kiosk environment
-- Automatic startup
-- Full-screen content playback
+- Automatic content playback
 - Remote software updates
-- Designed for continuous 24/7 operation
+- Dedicated kiosk mode
+- Commercial display support
+- Continuous 24/7 operation
+- Automatic recovery and startup
+- Remote device control
 
-## AI Audience Features
+## AI Audience Detection
 
-Supported JSNET Kiosk configurations can use AI-assisted audience detection to adapt displayed content based on the audience detected near the screen.
+Compatible JSNET Kiosk OS installations can use AI-powered audience detection to automatically adapt displayed content based on the audience detected near the screen.
 
-This allows compatible installations to automatically select appropriate advertising or media content while maintaining centralized control through the JSNET platform.
+The system can work with remotely configured advertising presets while remaining centrally managed through the JSNET Digital Signage Platform.
 
 ## Download JSNET Kiosk OS
 
-Stable builds are distributed through the **GitHub Releases** section of this repository.
+Stable Linux builds of JSNET Kiosk OS are distributed through the **GitHub Releases** section of this repository.
 
 Open:
 
 **Releases → Latest Release**
 
-and download the required JSNET Kiosk OS package.
+and download the latest available JSNET Kiosk OS package.
 
-Each release may include:
+## Releases
 
-- Version information
-- Release notes
-- Bug fixes
-- New features
-- Installation package
-
-## Current Releases
-
-Release packages are available here:
+Latest and previous versions:
 
 https://github.com/derak29/jsnet-kiosk-os-releases/releases
 
+Each release may contain:
+
+- Linux installation package
+- Version information
+- Release notes
+- Bug fixes
+- Performance improvements
+- New features
+
 ## JSNET Digital Signage Platform
 
-JSNET Kiosk OS works as part of the JSNET digital signage ecosystem.
+JSNET Kiosk OS connects to the JSNET Digital Signage Platform for centralized management of kiosk devices and media content.
 
 Official platform:
 
 https://kiosk.jsnet.biz
 
-The platform provides centralized management for digital signage devices, media content and kiosk installations.
+## Typical Use Cases
 
-## Use Cases
+JSNET Kiosk OS is suitable for:
 
-JSNET Kiosk OS can be used in:
-
-- Shopping centers
 - Retail stores
+- Shopping centers
 - Restaurants
 - Hotels
 - Offices
-- Exhibition stands
 - Showrooms
-- Airports
+- Exhibitions
+- Corporate displays
+- Information terminals
+- Advertising installations
 - Waiting areas
 - Educational facilities
-- Corporate information displays
-- Outdoor and indoor advertising installations
 
-## Supported Platform
+## Platform
 
-JSNET Kiosk OS is intended for compatible PC and Linux-based kiosk hardware.
+**Operating system:** Linux
 
-Android devices use the separate **JSNET Kiosk for Android** application.
+**Device type:** PC / dedicated digital signage player
+
+JSNET Kiosk OS is intended for dedicated Linux-based digital signage and kiosk systems.
 
 ## Updates
 
-New versions of JSNET Kiosk OS are published through GitHub Releases.
+New stable versions of JSNET Kiosk OS are published through GitHub Releases.
 
-For the latest stable version, always check the **Latest Release** section.
+Always use the **Latest Release** for the newest stable build.
 
 ## Support
 
-For product information, deployment or support, visit:
+For information, deployment and support:
 
 https://kiosk.jsnet.biz
 
@@ -113,4 +116,4 @@ https://kiosk.jsnet.biz
 
 **JSNET**
 
-Digital Signage, Kiosk and Remote Display Solutions
+Digital Signage & Kiosk Solutions
